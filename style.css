@@ -1,0 +1,51 @@
+.container {
+    padding: 20px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+}
+.section-one__desc
+{
+    margin-top: 0px;
+}
+
+.food-card {
+    display: inline-block;
+    width: 200px;
+    border: grey solid 1px;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+.section-two__desc {
+    padding: 10px;
+}
+
+.section-two__button {
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer__heading
+{
+    margin-bottom: 0px;
+}
+
+.footer__button {
+    background-color: yellow;
+    color: black;
+    height: 20px;
+    width: 400px;
+}
